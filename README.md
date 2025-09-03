@@ -1,5 +1,4 @@
-# 👋 Hola, soy Diego Alejandro Zapata Urrego
-            **System Engineer**
+# Hola, soy Diego Zapata
 
 💻 **Backend Developer | Embedded Systems | Software Architecture**
 
