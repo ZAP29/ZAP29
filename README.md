@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hola, soy Diego Alejandro Zapata Urrego
+# Hola, soy Diego Alejandro Zapata Urrego
 
-### 🤖 AI-First Software Engineer · ☕ Java & Spring Boot · 🏗️ Arquitectura de Microservicios
+### AI-First Software Engineer · Java & Spring Boot · Arquitectura de Microservicios
 
 **Construyo sistemas backend seguros, confiables y escalables — y los acelero con IA generativa y agentes.**
 
@@ -14,20 +14,20 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Ingeniero de Sistemas especializado en **desarrollo backend con Java y Spring Boot**, con experiencia real construyendo **microservicios para sistemas financieros de alta disponibilidad**. Trabajo el ciclo de vida completo del software: del análisis técnico a la implementación, las pruebas y el despliegue.
 
 Mi diferencial: soy un desarrollador **AI-first**. Diseño flujos de trabajo donde **agentes de IA generan la mayor parte del código** bajo revisión humana disciplinada (*human-in-the-loop*), aplicando *context engineering* y desarrollo guiado por especificaciones (*Spec Driven Development*).
 
-- 🔭 Actualmente: **Development Analyst** en Indesap, construyendo microservicios financieros con Java, Spring Boot, RabbitMQ y PostgreSQL.
-- 🌱 Aprendiendo: **Spring AI**, RAG con `pgvector`, Azure OpenAI y patrones agénticos avanzados.
-- 🤝 Abierto a: roles de **Backend Java / Ingeniero de IA aplicada**, 100% remoto.
-- ⚡ Dato curioso: también desarrollo **sistemas embebidos en C/C++**, integrando hardware con software.
+- Actualmente: **Development Analyst** en Indesap, construyendo microservicios financieros con Java, Spring Boot, RabbitMQ y PostgreSQL.
+- Aprendiendo: **Spring AI**, RAG con `pgvector`, Azure OpenAI y patrones agénticos avanzados.
+- Abierto a: roles de **Backend Java / Ingeniero de IA aplicada**, 100% remoto.
+- Dato curioso: también desarrollo **sistemas embebidos en C/C++**, integrando hardware con software.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -64,7 +64,7 @@ Mi diferencial: soy un desarrollador **AI-first**. Diseño flujos de trabajo don
 ![Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat-square&logo=vault&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🤖 IA & Herramientas Agénticas
+### IA & Herramientas Agénticas
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -72,7 +72,7 @@ Mi diferencial: soy un desarrollador **AI-first**. Diseño flujos de trabajo don
 
 ---
 
-## 🤖 Ingeniería con IA (AI-First Development)
+## Ingeniería con IA (AI-First Development)
 
 Aplico la IA generativa como parte central de mi flujo de trabajo, no como accesorio:
 
@@ -83,71 +83,36 @@ Aplico la IA generativa como parte central de mi flujo de trabajo, no como acces
 
 ---
 
-## 🌟 Proyectos Destacados
+## Proyectos Destacados
 
 > Reemplaza los enlaces `#` por las URLs reales de tus repositorios cuando los publiques.
 
-### 🎬 [Pipeline de Producción de Video con Agentes de IA](#)
+### [Pipeline de Producción de Video con Agentes de IA](#)
 Flujo automatizado que, partiendo de un repositorio open source, coordina **agentes basados en modelos de OpenAI** para generar videos con aspecto **cinematográfico** y voz narrativa atractiva. Automatiza la generación de imágenes, la composición de escenas y el ensamblaje del video de extremo a extremo.
 `OpenAI` · `Agentes de IA` · `Automatización` · `Generación de imágenes` · `Text-to-Speech`
 
-### 🛒 [E-commerce de Tecnología construido con IA](#)
+### [E-commerce de Tecnología construido con IA](#)
 Sitios de comercio electrónico para productos tecnológicos (AirPods, cargadores, accesorios) desarrollados usando **Copilot, Claude y Cursor** como entornos principales de desarrollo, desde la especificación hasta el despliegue.
 `Copilot` · `Claude` · `Cursor` · `Frontend` · `AI-First`
 
-### 🚑 [Videojuego 2D — Simulador de Ambulancia](#)
+### [Videojuego 2D — Simulador de Ambulancia](#)
 Juego en 2D donde el jugador conduce una ambulancia, evade el tráfico con sirena y recoge pacientes. Implementado **dirigiendo agentes de IA a partir de especificaciones escritas** (lógica de juego, mecánicas y assets).
 `Game Dev` · `AI-Assisted` · `2D` · `Spec Driven`
 
-### 🏦 [Microservicios Financieros de Alta Disponibilidad](#)
+### [Microservicios Financieros de Alta Disponibilidad](#)
 Arquitectura de microservicios para sistemas financieros con **Java, Spring Boot, RabbitMQ, PostgreSQL**, gestión de secretos con **Vault** e integración con **Azure**. Entregado en equipo bajo metodología Scrum.
 `Java` · `Spring Boot` · `Microservicios` · `RabbitMQ` · `Vault` · `Azure`
 
----
-
-## 💼 Experiencia Profesional
-
-| Rol | Empresa | Periodo | Foco |
-|-----|---------|---------|------|
-| **Development Analyst** | Indesap | Ene 2026 – Actualidad | Microservicios Java/Spring Boot para sistemas financieros |
-| **Desarrollador de Software** | Grupo Empresarial La Ofrenda S.A. | Jul 2025 – Feb 2026 | Módulos ERP, Oracle PL/SQL, automatización con bots |
-| **Software Developer Independiente** | Freelance | Ago 2023 – Actualidad | Proyectos AI-first, arquitecturas full-stack |
-
----
-
 ## 🎓 Educación & Certificaciones
-
 🎓 **Ingeniería de Sistemas** — Universidad Libre, Pereira
 
-- ☕ Java Orientado a Objetos — Spring Boot 3 · *Oracle Next Education*
-- 🗄️ SQL con MySQL · *Oracle Next Education*
-- ☁️ Oracle Cloud Infrastructure · *Oracle Next Education*
-- 🔒 Certificación en Ciberseguridad · *MinTIC TalentoTech (2025)*
-
----
-
-## 📊 Estadísticas de GitHub
+- Java Orientado a Objetos — Spring Boot 3 · *Oracle Next Education*
+- SQL con MySQL · *Oracle Next Education*
+- Oracle Cloud Infrastructure · *Oracle Next Education*
+- Certificación en Ciberseguridad · *MinTIC TalentoTech (2025)*
 
 <div align="center">
 
-<!-- Reemplaza <tu-usuario> por tu nombre de usuario real de GitHub -->
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true)
-
-![Racha](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 ¿Trabajamos juntos?
-
-Estoy abierto a proyectos de **backend Java/Spring Boot**, **arquitectura de microservicios** e **IA aplicada a soluciones empresariales**.
-
-📫 **dialzaur29@gmail.com** · 📍 Pereira, Colombia · 🌐 Disponible para trabajo remoto
-
-*“Combino la robustez del backend financiero con la velocidad de la IA generativa.”*
-
+### ¿Trabajamos juntos?
+Estoy abierto a colaborar en proyectos de **backend Java/Spring Boot**, **arquitectura de microservicios** e **IA aplicada a soluciones empresariales**.
 </div>
