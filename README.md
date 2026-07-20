@@ -6,8 +6,7 @@
 
 **I build secure, reliable, and scalable backend systems with a focus on performance, clean architecture, and maintainable code.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Zapata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-zapata)
-[![Gmail](https://img.shields.io/badge/Email-dialzaur29@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dialzaur29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Zapata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alejandro-zapata-urrego-8b3415210/)
 [![Location](https://img.shields.io/badge/Pereira,%20Colombia-Remote%20Ready-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
